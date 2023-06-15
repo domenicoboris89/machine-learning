@@ -1,3 +1,3 @@
 # machine-learning
 
-Various type of ML projects written in python using jupyter notebooks.
+ML projects I've reviewed for POLIMI students
